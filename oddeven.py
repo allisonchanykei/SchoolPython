@@ -1,0 +1,6 @@
+#!usr/bin/env python
+x = int(raw_input("Enter a number: "))
+if x % 2 == 0:
+	print "This is an even number."
+else:
+	print "This is an odd number."
